@@ -1,6 +1,6 @@
 {
   "name": "secret-board-2020",
-  "repository": "hettps://github.com/progedu/secret-board-3033",
+  "repository": "https://github.com/shinfujita/secret-board-2020.git",
   "logo": "",
   "keywords": ["node"],
   "image": "heroku/nodejs"
