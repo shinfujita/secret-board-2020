@@ -1,5 +1,6 @@
 {
   "name": "secret-board-2020",
+  "description": "秘密の匿名掲示板",
   "repository": "https://github.com/shinfujita/secret-board-2020",
   "logo": "",
   "keywords": ["node"],
