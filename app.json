@@ -1,6 +1,6 @@
 {
   "name": "secret-board-2020",
-  "repository": "https://github.com/shinfujita/secret-board-2020.git",
+  "repository": "https://github.com/shinfujita/secret-board-2020",
   "logo": "",
   "keywords": ["node"],
   "image": "heroku/nodejs"
