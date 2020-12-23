@@ -1,7 +1,7 @@
 {
   "name": "secret-board",
   "description": "秘密の匿名掲示板",
-  "repository": "https://github.com/shinfujita/secret-board-2020",
+  "repository": "https://github.com/progedu/secret-board-3033",
   "logo": "",
   "keywords": ["node"],
   "image": "heroku/nodejs"
