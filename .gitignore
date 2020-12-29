@@ -1,1 +1,4 @@
 node_modules/
+/Prockfile
+/app.json
+/yarn.lock
